@@ -1,0 +1,15 @@
+[submodule "ege_2_solver_gui"]
+	path = ege_2_solver_gui
+	url = https://github.com/KhokhlovKirill/ege_2_solver_gui
+[submodule "ege-1-solver-gui"]
+	path = ege-1-solver-gui
+	url = https://github.com/KhokhlovKirill/ege-1-solver-gui
+[submodule "game-theory-ege-solver"]
+	path = game-theory-ege-solver
+	url = https://github.com/KhokhlovKirill/game-theory-ege-solver
+[submodule "pyqt-ege-1-solver"]
+	path = pyqt-ege-1-solver
+	url = https://github.com/KhokhlovKirill/pyqt-ege-1-solver
+[submodule "qt-15-ege-solver"]
+	path = qt-15-ege-solver
+	url = https://github.com/KhokhlovKirill/qt-15-ege-solver
