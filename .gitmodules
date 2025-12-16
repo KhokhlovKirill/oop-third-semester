@@ -13,3 +13,6 @@
 [submodule "qt-15-ege-solver"]
 	path = qt-15-ege-solver
 	url = https://github.com/KhokhlovKirill/qt-15-ege-solver
+[submodule "vector-editor-oop"]
+	path = vector-editor-oop
+	url = https://github.com/KhokhlovKirill/vector-editor-oop.git
